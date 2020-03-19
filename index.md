@@ -4,8 +4,8 @@ layout: home
 ---
 
 <table border="0" cellpadding="0">
-<td valign="top" style="min-width:140px;">
-<img src="/assets/headshot.png" width="160">
+<td valign="top" style="min-width:250px;">
+<img src="/assets/headshot.png" width="250">
 </td>
 </table>
 
@@ -14,7 +14,7 @@ I am a computer science PhD student at MIT, supported by a Jacobs Presidential f
 
 Before I came to MIT, I was an undergraduate at Cornell University. During my time there,  I explored the implications of resource disaggregation in the cloud,  investigated the effects of low precision arithmetic and variance reduction on the performance and hardware efficiency of stochastic gradient descent (SGD), and led a team of 50+ engineers in designing and building a fully-functional prototype of a Hyperloop pod. 
 
-I’ve had the opportunity to do many wonderful summer internships, including spending a summer at UC Berkeley’s RISELab, where I worked on Ray,  a distributed execution engine for machine learning, and another working on computer vision problems at a 3D bioprinting startup, Allevi. I also spent a fantastic six months at Microsoft Research in Cambridge, U.K, where I was a part of the Cloud Infrastructure team. I worked as a networking intern on  Project Sirius, and as a deep learning intern on Project Silica. 
+I’ve had the opportunity to do many wonderful summer internships, including spending a summer at UC Berkeley’s RISELab, where I worked on Ray,  a distributed execution engine for machine learning, and another working on computer vision problems at a 3D bioprinting startup, Allevi. I also spent a fantastic six months at Microsoft Research in Cambridge, U.K, where I was a part of the Cloud Infrastructure team. I worked as a networking intern on Project Sirius, and as a deep learning intern on Project Silica. 
 
 
 <h2 class="tableheading">Publications</h2>
