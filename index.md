@@ -5,7 +5,7 @@ layout: home
 
 <table border="0" cellpadding="0">
 <td valign="top" style="min-width:250px;">
-<img src="/assets/headshot.png" width="250">
+<img src="/assets/hiking.png" width="250">
 </td>
 </table>
 
