@@ -20,7 +20,7 @@ I’ve had the opportunity to do many wonderful summer internships, including sp
 
 
 <h2 class="tableheading">Publications</h2>
-
+<!-- 
 <table border="0">
   {% for pub_keyval in site.data.publications %}
     <tr>
@@ -65,12 +65,12 @@ I’ve had the opportunity to do many wonderful summer internships, including sp
       </td>
     </tr>
 {% endfor %}
-</table>
+</table> -->
 
 
 <h2 class="tableheading">Press</h2>
 
-<table border="0">
+<!-- <table border="0">
 {%- for press_keyval in site.data.press %}
   {%- assign press= press_keyval[1] -%}
   <tr>
@@ -79,5 +79,5 @@ I’ve had the opportunity to do many wonderful summer internships, including sp
   </td>
   </tr>
 {% endfor %}
-</table>
+</table> -->
 
