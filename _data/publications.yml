@@ -1,0 +1,27 @@
+hotos2019:
+  title: "Towards Multiverse Databases"
+  venue: "The 17th Workshop on Hot Topics in Operating Systems (HotOS)"
+  year: "2019"
+  month: "May"
+  authors:
+    - marzoev
+    - araujo
+    - schwarzkopf
+    - yagati
+    - kohler
+    - morris
+    - kaashoek
+    - madden 
+  pdf: /publications/hotos.pdf 
+
+
+preprint: 
+  title: "Unnatural Language Processing"
+  year: "2020"
+  authors: 
+    -marzoev
+    -madden 
+    -kaashoek
+    -cafarella 
+    -andreas 
+  pdf: /publications/unlp.pdf 
