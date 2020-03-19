@@ -10,7 +10,9 @@ layout: home
 </table>
 
 
-I am a computer science PhD student at MIT, supported by a Jacobs Presidential fellowship. I’m interested in natural language processing and data systems. I am extremely fortunate to be coadvised by Samuel Madden, Jacob Andreas, and Frans Kaashoek, and to work closely with Mike Cafarella. 
+I am a computer science PhD student at MIT, supported by a Jacobs Presidential fellowship. I’m interested in natural language processing and data systems. ]
+
+I am extremely fortunate to be coadvised by Samuel Madden, Jacob Andreas, and Frans Kaashoek, and to work closely with Mike Cafarella. 
 
 Before I came to MIT, I was an undergraduate at Cornell University. During my time there,  I explored the implications of resource disaggregation in the cloud,  investigated the effects of low precision arithmetic and variance reduction on the performance and hardware efficiency of stochastic gradient descent (SGD), and led a team of 50+ engineers in designing and building a fully-functional prototype of a Hyperloop pod. 
 
