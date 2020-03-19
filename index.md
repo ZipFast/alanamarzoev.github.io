@@ -5,7 +5,7 @@ layout: home
 
 <table border="0" cellpadding="0">
 <td valign="top" style="min-width:140px;">
-<img src="/assets/headshot.jpg" width="160">
+<img src="/assets/headshot.png" width="160">
 </td>
 </table>
 
@@ -29,7 +29,7 @@ I’ve had the opportunity to do many wonderful summer internships, including sp
           {%- if forloop.last == true and forloop.length > 1 %}
             and
           {%- endif %}
-          {%- if author == "kjolstad" %}
+          {%- if author == "marzoev" %}
             <font color="#000000">{{ site.data.authors[author].name }}</font>
           {%- else %}
             <a href="{{- site.data.authors[author].site -}}" style="color: #464646">{{ site.data.authors[author].name }}</a>
